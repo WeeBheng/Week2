@@ -9,5 +9,17 @@
     <string name="login">Login</string>
     <string name="cancel">Cancel</string>
 
+    //Exercise 2
+    <string name="Fullname">Full Name:</string>
+    <string name="Firstname">First Name</string>
+    <string name="Lastname">Last Name</string>
+    <string name="Gender">Gender:</string>
+    <string name="ID">Student ID:</string>
+    <string name="school">School:</string>
+    <string name="Email">Email:</string>
+    <string name="phone">Phone Number:</string>
+    <string name="Register">Register</string>
+    <string name="Registerform">Registeration Form</string>
+    <string name="welcome">Welcome to RP Programming Club!</string>
 
 </resources>
